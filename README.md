@@ -1,4 +1,36 @@
-<div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm1kZHVvdW5ldzVhZWQ3OXR5aXl5eGZ5MGJmMTlzdzRuMHdhdWJlNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/03DcXDVS4DJIz7VmC3/giphy.gif" alt="Animated GIF" width=""/>
-</div>
-<samp align="center"> <div align="center"> <a href="https://www.linkedin.com/in/abdelrahmanredafawzy">linkedin</a> | <a href="https://codeforces.com/profile/reda_">codeforces</a> | <a href="https://leetcode.com/abdelrahman-reda/">leetcode</a> </div> </samp>
+Hi there, I'm **Abdelrahman Reda** 👋
+
+Computer Engineering student at Alexandria University  
+
+Focused on software engineering and GenAI
+
+## Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,ts,c,cpp,python&theme=dark" />
+</p>
+
+## Frameworks & Libraries
+<p>
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,nestjs,flask&theme=dark" />
+</p></p>
+
+## Databases & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,mysql,postgres,git,github,docker,grafana,spark&theme=dark" />
+</p>
+
+## Connect with Me
+<p>
+<a href="https://linkedin.com/in/abdelrahmanredafawzy">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="40"/>
+  </a>
+  <a href="mailto:abdelrahmanredafawzy@email.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="40"/>
+  </a>
+  <a href="https://github.com/abdelrahman-reda-fawzy">
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" width="40"/>
+  </a>
+  
+  
+</p>
