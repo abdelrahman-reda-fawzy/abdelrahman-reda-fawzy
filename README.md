@@ -12,7 +12,7 @@ Focused on software engineering and GenAI
 ## Frameworks & Libraries
 <p>
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,nestjs,flask&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,nestjs,flask,supabase&theme=dark" />
 </p></p>
 
 ## Databases & Tools
