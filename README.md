@@ -17,7 +17,7 @@ Focused on software engineering and GenAI
 
 ## Databases & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,mysql,postgres,git,github,docker,grafana,spark&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=linux,mysql,postgres,prisma,git,github,docker,grafana,spark&theme=dark" />
 </p>
 
 ## Connect with Me
