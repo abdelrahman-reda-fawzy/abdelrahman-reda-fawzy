@@ -25,7 +25,7 @@ Focused on software engineering and GenAI
 <a href="https://linkedin.com/in/abdelrahmanredafawzy">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="40"/>
   </a>
-  <a href="mailto:abdelrahmanredafawzy@email.com">
+  <a href="mailto:abdelrahmanredafawzy@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="40"/>
   </a>
   <a href="https://github.com/abdelrahman-reda-fawzy">
